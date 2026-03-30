@@ -1,0 +1,562 @@
+{
+  "report_date": "2026-03-30T02:18:29.618710+00:00",
+  "period": "last_7_days",
+  "summary": {
+    "new_permits": 67079,
+    "updated_permits": 0,
+    "total_new_valuation": 8575498882.0
+  },
+  "new_permits": [
+    {
+      "type": "new",
+      "permit_number": "2026-036267 MP",
+      "timestamp": "2026-03-30T02:18:20.263702+00:00",
+      "details": {
+        "address": "7221 FABION DR",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-034696 BP",
+      "timestamp": "2026-03-30T02:18:20.263726+00:00",
+      "details": {
+        "address": "6809 WILLAMETTE DR",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "90000"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-001610 EP",
+      "timestamp": "2026-03-30T02:18:20.263730+00:00",
+      "details": {
+        "address": "1307 E 30TH ST",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2024-082586 PP",
+      "timestamp": "2026-03-30T02:18:20.263733+00:00",
+      "details": {
+        "address": "1708 ALGUNO RD",
+        "permit_type": "Plumbing Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-037320 BP",
+      "timestamp": "2026-03-30T02:18:20.263737+00:00",
+      "details": {
+        "address": "2018 FORD ST",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "0"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036213 EP",
+      "timestamp": "2026-03-30T02:18:20.263740+00:00",
+      "details": {
+        "address": "602 WESTBROOK DR",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036771 BP",
+      "timestamp": "2026-03-30T02:18:20.263743+00:00",
+      "details": {
+        "address": "811 CLAYTON LN",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "1000000"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-018715 BP",
+      "timestamp": "2026-03-30T02:18:20.263748+00:00",
+      "details": {
+        "address": "3500 E PARMER LN UNIT 12140",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036693 PP",
+      "timestamp": "2026-03-30T02:18:20.263752+00:00",
+      "details": {
+        "address": "5601 CAPRICE DR",
+        "permit_type": "Plumbing Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036761 BP",
+      "timestamp": "2026-03-30T02:18:20.263755+00:00",
+      "details": {
+        "address": "811 CLAYTON LN",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "1000000"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-034217 PP",
+      "timestamp": "2026-03-30T02:18:20.263758+00:00",
+      "details": {
+        "address": "415 BALDRIDGE DR",
+        "permit_type": "Plumbing Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036757 BP",
+      "timestamp": "2026-03-30T02:18:20.263761+00:00",
+      "details": {
+        "address": "811 CLAYTON LN BLDG CP5",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "1000000"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036419 BP",
+      "timestamp": "2026-03-30T02:18:20.263764+00:00",
+      "details": {
+        "address": "11805 THREE OAKS TRL",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "1"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-034132 EP",
+      "timestamp": "2026-03-30T02:18:20.263767+00:00",
+      "details": {
+        "address": "2510 PARK VIEW DR",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-035350 PP",
+      "timestamp": "2026-03-30T02:18:20.263769+00:00",
+      "details": {
+        "address": "4517 LAVA ISLAND DR",
+        "permit_type": "Plumbing Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036784 MP",
+      "timestamp": "2026-03-30T02:18:20.263771+00:00",
+      "details": {
+        "address": "4513 SPANISH OAK TRL",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-025770 PP",
+      "timestamp": "2026-03-30T02:18:20.263774+00:00",
+      "details": {
+        "address": "9413 BOATHOUSE DR",
+        "permit_type": "Plumbing Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-032039 PP",
+      "timestamp": "2026-03-30T02:18:20.263776+00:00",
+      "details": {
+        "address": "2817 BEAR SPRINGS TRL",
+        "permit_type": "Plumbing Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-035308 BP",
+      "timestamp": "2026-03-30T02:18:20.263779+00:00",
+      "details": {
+        "address": "10095 E US 290 HWY SVRD EB",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-029003 EP",
+      "timestamp": "2026-03-30T02:18:20.263781+00:00",
+      "details": {
+        "address": "4900 MUELLER BLVD UNIT 200",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-034780 EP",
+      "timestamp": "2026-03-30T02:18:20.263784+00:00",
+      "details": {
+        "address": "1906 MAPLE AVE",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036731 BP",
+      "timestamp": "2026-03-30T02:18:20.263791+00:00",
+      "details": {
+        "address": "2805 BLAKE ST",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "1"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2021-057655 MP",
+      "timestamp": "2026-03-30T02:18:20.263793+00:00",
+      "details": {
+        "address": "2109 RIVERVIEW ST BLDG 2",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036293 MP",
+      "timestamp": "2026-03-30T02:18:20.263796+00:00",
+      "details": {
+        "address": "5605 ARBOR HILL LN",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-019572 EP",
+      "timestamp": "2026-03-30T02:18:20.263798+00:00",
+      "details": {
+        "address": "901 W BEN WHITE BLVD SVRD EB",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2025-151974 BP",
+      "timestamp": "2026-03-30T02:18:20.263801+00:00",
+      "details": {
+        "address": "2902 W 44TH ST",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "0"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036438 EP",
+      "timestamp": "2026-03-30T02:18:20.263805+00:00",
+      "details": {
+        "address": "4705 MOUNT VERNON DR",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-037161 EP",
+      "timestamp": "2026-03-30T02:18:20.263807+00:00",
+      "details": {
+        "address": "2610 W 10TH ST",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-021462 EP",
+      "timestamp": "2026-03-30T02:18:20.263810+00:00",
+      "details": {
+        "address": "7316 1/2 W SH 71",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-021732 BP",
+      "timestamp": "2026-03-30T02:18:20.263813+00:00",
+      "details": {
+        "address": "3000 CHERRYWOOD RD",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "1"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-037102 BP",
+      "timestamp": "2026-03-30T02:18:20.263815+00:00",
+      "details": {
+        "address": "2610 W 49TH HALF ST",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "0"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2025-107119 EP",
+      "timestamp": "2026-03-30T02:18:20.263818+00:00",
+      "details": {
+        "address": "3203 SKYLARK DR",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2025-157777 EP",
+      "timestamp": "2026-03-30T02:18:20.263820+00:00",
+      "details": {
+        "address": "704 W 21ST ST UNIT 303",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2025-156222 MP",
+      "timestamp": "2026-03-30T02:18:20.263823+00:00",
+      "details": {
+        "address": "2708 ESTONIA PATH",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-037013 BP",
+      "timestamp": "2026-03-30T02:18:20.263825+00:00",
+      "details": {
+        "address": "7433 PULLMAN CV",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "0"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-010000 MP",
+      "timestamp": "2026-03-30T02:18:20.263828+00:00",
+      "details": {
+        "address": "6309 BERKMAN DR",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-035882 MP",
+      "timestamp": "2026-03-30T02:18:20.263830+00:00",
+      "details": {
+        "address": "4901 ABERDEEN CIR",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-007219 MP",
+      "timestamp": "2026-03-30T02:18:20.263834+00:00",
+      "details": {
+        "address": "2707 WHITE HORSE TRL",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-029914 MP",
+      "timestamp": "2026-03-30T02:18:20.263837+00:00",
+      "details": {
+        "address": "4912 BRIDWELL LN",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-034831 BP",
+      "timestamp": "2026-03-30T02:18:20.263839+00:00",
+      "details": {
+        "address": "1404 PARK CENTER DR",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036752 BP",
+      "timestamp": "2026-03-30T02:18:20.263842+00:00",
+      "details": {
+        "address": "811 CLAYTON LN BLDG CP1",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "1000000"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036756 BP",
+      "timestamp": "2026-03-30T02:18:20.263844+00:00",
+      "details": {
+        "address": "811 CLAYTON LN BLDG CP4",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "1000000"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-035857 MP",
+      "timestamp": "2026-03-30T02:18:20.263847+00:00",
+      "details": {
+        "address": "1145 SHADY LN BLDG 2",
+        "permit_type": "Mechanical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2025-015603 EP",
+      "timestamp": "2026-03-30T02:18:20.264060+00:00",
+      "details": {
+        "address": "7605 BARCELONA CV",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036859 BP",
+      "timestamp": "2026-03-30T02:18:20.264063+00:00",
+      "details": {
+        "address": "1801 N LAMAR BLVD UNIT 102",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "0"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-019575 EP",
+      "timestamp": "2026-03-30T02:18:20.264068+00:00",
+      "details": {
+        "address": "901 W BEN WHITE BLVD SVRD EB",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-035773 BP",
+      "timestamp": "2026-03-30T02:18:20.264070+00:00",
+      "details": {
+        "address": "8810 SCHICK RD",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-035704 EP",
+      "timestamp": "2026-03-30T02:18:20.264072+00:00",
+      "details": {
+        "address": "10205 VAQUERO TRL",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-037100 BP",
+      "timestamp": "2026-03-30T02:18:20.264075+00:00",
+      "details": {
+        "address": "2610 W 49TH HALF ST",
+        "permit_type": "Building Permit",
+        "status": "Active",
+        "valuation": "0"
+      }
+    },
+    {
+      "type": "new",
+      "permit_number": "2026-036678 EP",
+      "timestamp": "2026-03-30T02:18:20.264077+00:00",
+      "details": {
+        "address": "103 MC CONNELL DR",
+        "permit_type": "Electrical Permit",
+        "status": "Active",
+        "valuation": ""
+      }
+    }
+  ],
+  "status_changes": []
+}
