@@ -31,7 +31,7 @@ jobs:
         run: python fetch_permits.py
 
       - name: Run weekly tracker (diff & save updates)
-        run: python weekly_tracker.py
+        run: python weekly_tracker.py --once
 
       - name: Commit & push updated data
         run: |
